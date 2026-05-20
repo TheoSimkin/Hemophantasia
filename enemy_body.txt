@@ -1,0 +1,24 @@
+
+{
+"enemy_body" : {
+    "Organs" : {
+        0 : [],
+        1 : [],
+        2 : [],
+        3 : ["Lung",0],
+        4 : ["Heart",0],
+        5 : ["Lung",0],
+        6 : [],
+        7 : [],
+        8 : ["Liver",0]
+    },
+    "Limbs" : {
+        0 : ["Hand", "Hand",1,3,0],
+        1 : ["Arm spike", "Spike",1,3,0],
+        2 : ["Arm blade", "Blade",1,4,0],
+        3 : ["R Leg", "Foot",1,4,0],
+        4 : ["L Leg", "Foot",1,4,0],
+        5 : []
+    }
+}
+}
