@@ -1,0 +1,47 @@
+This is just a list of organs and limbs available
+
+organ types    
+
+"Heart" : {
+        "Type": "Heart",
+        "Max HP": 10,
+        "HP": 0,
+        "O2 Passive": 5,
+        "O2 Flow": 100
+    },
+
+    "Lung" : {
+        "Type": "Lung",
+        "Max HP": 10,
+        "HP": 0,
+        "O2 Passive": 2.5,
+        "O2 Intake": 50,
+    },
+
+    "Liver" : {
+        "Type": "Liver",
+        "Max HP": 10,
+        "HP": 0,
+        "O2 Passive": 5,
+        "Blood Filtration": 100
+    }
+
+limb_types
+    "Hand" : {
+        "Blunt" : 0.75,
+        "Grasp" : 1,
+        "Stance" : 0.5
+    },
+    "Foot" : {
+        "Blunt" : 0.75,
+        "Stance" : 1
+    },
+    "Blade" : {
+        "Slash" : 1,
+        "Pierce" : 0.75,
+        "Stance" : 0.25
+    },
+    "Spike" : {
+        "Pierce" : 1,
+        "Stance" : 0.25
+    }
